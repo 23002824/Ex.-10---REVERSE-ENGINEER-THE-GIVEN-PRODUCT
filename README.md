@@ -33,10 +33,12 @@
 ## Input:
 
 ### Output:
+![ex10](https://github.com/Sellakumar1987/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/151514009/7b90bb93-1626-4e44-b714-20c36b82aee0)
+![ex10(2)](https://github.com/Sellakumar1987/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/151514009/a090e823-cd6c-471f-a31f-b4038b856d84)
 
 
-### Name:
-### Register Number:
+### Name:Danica Christa Babudurai
+### Register Number:23002824
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
